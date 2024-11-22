@@ -1,7 +1,21 @@
-<img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=Welcome🙏Geon🤓Hub&fontSize=50" />
-  
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=🙏Geon🤓Hub&fontSize=50"/>
+</div>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!!" alt="Typing SVG" /></a>
+</div>
+
+
 ## 😎 About Me!
-- Studying at: ChungAng University - Art&Technology - 3rd grade
+### I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.
+- 🎓 Studying at:
+  - ChungAng University - Art&Technology - 3rd grade
+- 👨🏾‍💻 Interests:
+  - Game Development
+  - Machine Learning
+  - Web Development
+  - Task Automation<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
