@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=🙏Geon🤓Hub&fontSize=50"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=🔫Geon🤓Hub&fontSize=50"/>
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=2C74DBD8&background=38AD9000&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub!!" alt="Typing SVG" /></a>
 </div>
 
@@ -112,6 +112,8 @@
   <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact Me ! </h2>
   <div align= "center">
+    <p>I always welcome contributions to my repository!<br>
+      If you have a project you’d like to work on together or<br> if you’d like to contribute to one of my projects, feel free to contact me anytime!</p>
   <p>
     ☎ Phone: 010-5591-5839 <br>
     ✉️ E-Mail: inging5839@gmail.com
@@ -124,7 +126,7 @@
   </div>
 </div>
   
-
+<br><br>
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
   <div align= "center">
@@ -135,7 +137,11 @@
 
 
 
+---
+
+
 ![Logo](https://github.com/inging5839/inging5839/blob/main/github-user-contribution.svg)
+
 
 <h3 align="center"><b>🔫 Hits </b></h3>
 <p align="center">
@@ -143,3 +149,13 @@
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finging5839&count_bg=%238AA3FF&title_bg=%23555555&icon=&icon_color=%23B04B4B&title=Hits&edge_flat=false"/>
   </a>
 </p>
+
+<div align="center"
+  <a href="https://github.com/devxb/gitanimals">
+  <img
+    src="https://render.gitanimals.org/farms/inging5839"
+    width="600"
+    height="300"
+  />
+  </a>
+</div>
