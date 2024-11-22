@@ -5,8 +5,10 @@
 
 <div align="left">
   <h2>😎 About Me!</h2>
-  <h3>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.
-  </h3>
+  <h4>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.<br>
+    <br>I think one expertise is important, but it is more important to achieve new creation by fusion with various skills. 
+    <br><br>I want to become a programmer who tries to create something that has not existed in the world by acquiring various skills across the field.<br>
+  </h4>
   <h4>🎓 Studying at </h4>
   <ul> 
     - Gachon University - Major in Software (2017, Droping out) <br>
@@ -67,20 +69,40 @@
   - Skill: Unity(C#) + Git/Github + ComfyUI + Notion  
   </p>
 
-  <h3 > 📊 [Mysql] Personalized secretary App DB design </h3>
+ 
+
+## 💻 Completed Project!
+  <h3 > 💰 Automating Program For Calculating Payment Charges </h3>
   <h4>Project Overview</h4>
   <p>
-  This project involves designing a database for a personalized assistant app service. It is a solo project aimed at practicing the use of MySQL.
+  This project involves developing a program that automatically calculates different payment amounts by time at a screen golf facility using Excel. The process also includes web scraping and automating the download of files from the web through ChromeDriver.
+  <br><br>
+  - My Role: Developer <br> 
+  - Skill: Python(openpyxl, pandas, selenium)  
+  </p>
+
+## 💻 Planned Project!
+
+
+ <h3 > 😍 App for couples </h3>
+  <h4>Project Overview</h4>
+  <p>
+  The content of the planned project is an application that writes down your lover's taste as a list and recommends a date course, date schedule, or restaurant that suits your lover's taste based on the list.
+  <br><br>
+  - My Role: Develope <br>
+  - Skill: MySQL
+  </p>
+
+ <h3 > 📊 [Mysql] Personalized secretary App DB design </h3>
+  <h4>Project Overview</h4>
+  <p>
+  This planned project involves designing a database for a personalized assistant app service. It is a solo project aimed at practicing the use of MySQL.
   <br><br>
   - My Role: DBA <br>
   - Skill: MySQL
   </p>
 
-
   
-## 💻 Planned Project!
-
-
 
 <div align= "center">
   <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
