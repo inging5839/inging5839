@@ -3,7 +3,7 @@
 
 
 ### 🔭 I’m currently studying on ...
-[ChungAng University] Colleage Of Art And Technology 3rd grade
+![CauLogo](https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Chung-Ang_University.svg)[ChungAng University] Colleage Of Art And Technology 3rd grade
 ## 🌱 I’m currently learning ... <br>
 <img src="https://img.shields.io/badge/Python-999999?style=for-the-badge&logo=Python&logoColor=3776AB"/></a> <br>
 <img src="https://img.shields.io/badge/Flutter-999999?style=for-the-badge&logo=Flutter&logoColor=02569B"/></a> <br>
@@ -18,6 +18,7 @@ Age        | 27
 Birth Day  | 1998.07.30
 Email      | inging5839@gmail.com
 Mobile     | 010-5591-5839
+SNS        | instagram
 
 
 [![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inging5839&layout=compact)](https://github.com/inging5839/github-readme-stats)<br>
