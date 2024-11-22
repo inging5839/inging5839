@@ -13,7 +13,7 @@
   <ul> 
     - Gachon University - Major in Software (2017, Droping out) <br>
     - ChungAng University - Major Integrative Plant Science (2018 - 2019, Transferred to Other Major)<br>
-    - <b>[Now] ChungAng University - Convergence Major in Software&Venture (2023 ~ ) <br>
+    - <b>[Now] ChungAng University - Convergence Major in Software&Venture (2023 ~ )</b> <br>
     - <b>[Now] ChungAng University - Major in Art&Technology - 3rd grade (2024 ~ )</b>
   </ul>
   <h4 >👨🏾‍💻 Interests </h4>
@@ -96,7 +96,7 @@
   The content of the planned project is an application that writes down your lover's taste as a list and recommends a date course, date schedule, or restaurant that suits your lover's taste based on the list.
   <br><br>
   - My Role: Developer <br>
-  - Skill: Flutter + Python + MySQL
+  - Skill: Flutter(Dart) + Python + MySQL
   </p>
 
  <h3 > 📊 [Mysql] Personalized secretary App DB design </h3>
