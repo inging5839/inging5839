@@ -4,28 +4,29 @@
 </div>
 
 <div align="left">
-  <div align="center">
-    <h2>😎 About Me!</h2>
-  </div>
-  <h3>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.</h3>
+  <h2>😎 About Me!</h2>
+  <h3>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.
+  </h3>
   <h4>🎓 Studying at </h4>
-  <ul > 
-    - ChungAng University - Art&Technology - 3rd grade
+  <ul> 
+    - Gachon University - Major in Software (2017, Droping out) <br>
+    - ChungAng University - Major Integrative Plant Science (2018 - 2019, Transferred to Other Major)<br>
+    - <b>[Now] ChungAng University - Major in Art&Technology - 3rd grade</b>
   </ul>
   <h4 >👨🏾‍💻 Interests </h4>
-  <div style="margin: 0 auto;">
+  <div>
     <ul> 
       - Game Development<br>
       - Machine Learning<br>
-      - Web Development<br>
+      - Web&App Development<br>
       - Task Automation
     </ul>
+  </div>
+  
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
+  
 </div>
-</div>
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
-
 <div align="right">
   <h2 align="center">🌱 I’m currently learning</h2>
   <div align="center"><h3>📚 Languages</h3>
@@ -51,6 +52,7 @@
     <img src="https://img.shields.io/badge/linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"> 
   </div>
 </div>
+
  
 
 ## 💻 Ongoing Project!
@@ -58,12 +60,17 @@
 ## 💻 Planned Project!
 
 
-  
-  
----
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=inging5839&layout=compact)](https://github.com/inging5839/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=inging5839&show_icons=true&theme=prussian)
+<div align= "center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🏅 Stats </h2>
+  <div align= "center">
+    <img src="https://github-readme-stats.vercel.app/api?username=inging5839&custom_title=inging5839'sGithubStat&bg_color=180,21497d,00000000&title_color=ffffff&text_color=ffffff"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=inging5839&layout=compact&&bg_color=180,21497d,00000000&title_color=ffffff&text_color=ffffff"/>
+  </div>
+</div>
+
+
+
 ![Logo](https://github.com/inging5839/inging5839/blob/main/github-user-contribution.svg)
 
 <h3 align="center"><b>🔫 Hits </b></h3>
