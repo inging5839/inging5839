@@ -95,8 +95,8 @@
   <p>
   The content of the planned project is an application that writes down your lover's taste as a list and recommends a date course, date schedule, or restaurant that suits your lover's taste based on the list.
   <br><br>
-  - My Role: Develope <br>
-  - Skill: MySQL
+  - My Role: Developer <br>
+  - Skill: Flutter + Python + MySQL
   </p>
 
  <h3 > 📊 [Mysql] Personalized secretary App DB design </h3>
