@@ -58,7 +58,7 @@
 
 <p><br><br>   </p>
 
-<h2 align="center">💻 Ongoing Project!</h2> 
+<h2 align="center">🧑‍💻 Ongoing Project!</h2> 
   <h3 > 🎲 [Unity] Cooking Simulation Game - ChocoLab </h3>
   <h4>Project Overview</h4>
   <p>
@@ -75,7 +75,7 @@
 <p><br><br>   </p>
  
 
-<h2 align="center">💻 Completed Project!</h2>
+<h2 align="center">🧑🏻‍💻 Completed Project!</h2>
   <h3 > 💰 Automating Program For Calculating Payment Charges </h3>
   <h4>Project Overview</h4>
   <p>
@@ -90,7 +90,7 @@
 
 <p><br><br>   </p>
 
-<h2 align="center">💻 Planned Project!</h2>
+<h2 align="center">🗓️ Planned Project!</h2>
  <h3 > 😍 App for couples </h3>
   <h4>Project Overview</h4>
   <p>
