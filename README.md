@@ -1,19 +1,18 @@
 <img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=Welcome🙏Geon🤓Hub&fontSize=50" />
   
-  ## 😎 About Me!
-### Studying at [ChungAng University - Art&Technology] <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Chung-Ang_University.svg" width="50" height="50">
+## 😎 About Me!
+- Studying at: ChungAng University - Art&Technology - 3rd grade
 
-## 🔭 I’m currently studying on ...
-<div>
-  
-  <span style="align-items: center;">[ChungAng University] Colleage Of Art And Technology 3rd grade </span>
-</div>
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
 
-## 🌱 I’m currently learning ... <br>
+## 💻 Ongoing Project!
+
+## 💻 Planned Project!
+## 🌱 I’m currentlylearning <br>
 <div align="center"><h3>📚 Languages</h3>
   <img src="https://img.shields.io/badge/python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/68/Logo_of_Chung-Ang_University.svg" width="50" height="50">
-  <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
+  <img alt="Java" src ="https://img.shields.io/badge/Java-007396.svg?&style=for-the-badge&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white">
