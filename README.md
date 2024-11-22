@@ -4,7 +4,7 @@
 </div>
 
 <div align="left">
-  <h2>😎 About Me!</h2>
+  <h2 align="center">😎 About Me!</h2>
   <h4>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.<br>
     <br>I think one expertise is important, but it is more important to achieve new creation by fusion with various skills. 
     <br><br>I want to become a programmer who tries to create something that has not existed in the world by acquiring various skills across the field.<br>
@@ -26,8 +26,7 @@
     </ul>
   </div>
   
-  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
-  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
+  
   
 </div>
 <div align="right">
@@ -56,9 +55,9 @@
   </div>
 </div>
 
- 
+<p><br><br>   </p>
 
-## 💻 Ongoing Project!
+<h2 align="center">💻 Ongoing Project!</h2> 
   <h3 > 🎲 [Unity] Cooking Simulation Game - ChocoLab </h3>
   <h4>Project Overview</h4>
   <p>
@@ -68,10 +67,14 @@
   - Team: Developer[2] + Art Designer[1] <br> 
   - Skill: Unity(C#) + Git/Github + ComfyUI + Notion  
   </p>
+<a href="https://github.com/inging5839/chocolab">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inging5839&repo=ChocoLab" />
+</a>
 
+<p><br><br>   </p>
  
 
-## 💻 Completed Project!
+<h2 align="center">💻 Completed Project!</h2>
   <h3 > 💰 Automating Program For Calculating Payment Charges </h3>
   <h4>Project Overview</h4>
   <p>
@@ -80,10 +83,13 @@
   - My Role: Developer <br> 
   - Skill: Python(openpyxl, pandas, selenium)  
   </p>
+<a href="https://github.com/inging5839/CalculatorUrvineGolfFee">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=inging5839&repo=CalculatorUrvineGolfFee" />
+</a>
 
-## 💻 Planned Project!
+<p><br><br>   </p>
 
-
+<h2 align="center">💻 Planned Project!</h2>
  <h3 > 😍 App for couples </h3>
   <h4>Project Overview</h4>
   <p>
@@ -102,6 +108,21 @@
   - Skill: MySQL
   </p>
 
+
+  <div align= "center">
+  <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📞 Contact Me ! </h2>
+  <div align= "center">
+  <p>
+    ☎ Phone: 010-5591-5839 <br>
+    ✉️ E-Mail: inging5839@gmail.com
+  </p>
+    
+  [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/gxon.k/)
+  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/?view=cm&amp;fs=1&amp;to=inging5839@gmail.com)
+    
+    
+  </div>
+</div>
   
 
 <div align= "center">
