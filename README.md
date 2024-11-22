@@ -1,16 +1,18 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=soft&color=153448&height=200&section=header&text=🙏Geon🤓Hub&fontSize=50"/>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=1500&color=2C74DBD8&background=38AD9000&center=true&vCenter=true&random=true&width=435&lines=Welcome+to+my+GitHub!!" alt="Typing SVG" /></a>
 </div>
+
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Welcome+to+my+GitHub!!" alt="Typing SVG" /></a>
+  <h2>😎 About Me!</h2>
 </div>
-
-
-## 😎 About Me!
-### I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.
-- 🎓 Studying at:
+<h3>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.</h3>
+<h4>🎓 Studying at: </h4>
+<ul> 
   - ChungAng University - Art&Technology - 3rd grade
+</ul>
+  
 - 👨🏾‍💻 Interests:
   - Game Development
   - Machine Learning
