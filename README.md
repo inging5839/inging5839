@@ -11,7 +11,8 @@
   <ul> 
     - Gachon University - Major in Software (2017, Droping out) <br>
     - ChungAng University - Major Integrative Plant Science (2018 - 2019, Transferred to Other Major)<br>
-    - <b>[Now] ChungAng University - Major in Art&Technology - 3rd grade</b>
+    - <b>[Now] ChungAng University - Convergence Major in Software&Venture (2023 ~ ) <br>
+    - <b>[Now] ChungAng University - Major in Art&Technology - 3rd grade (2024 ~ )</b>
   </ul>
   <h4 >👨🏾‍💻 Interests </h4>
   <div>
@@ -56,7 +57,27 @@
  
 
 ## 💻 Ongoing Project!
+  <h3 > 🎲 [Unity] Cooking Simulation Game - ChocoLab </h3>
+  <h4>Project Overview</h4>
+  <p>
+  This project focuses on a game where players create and serve chocolates tailored to customers’ specific requests. Generative AI will be utilized to design a system that allows customers to order a wide variety of chocolates.
+  <br><br>
+  - My Role: PM & Developer <br>
+  - Team: Developer[2] + Art Designer[1] <br> 
+  - Skill: Unity(C#) + Git/Github + ComfyUI + Notion  
+  </p>
 
+  <h3 > 📊 [Mysql] Personalized secretary App DB design </h3>
+  <h4>Project Overview</h4>
+  <p>
+  This project involves designing a database for a personalized assistant app service. It is a solo project aimed at practicing the use of MySQL.
+  <br><br>
+  - My Role: DBA <br>
+  - Skill: MySQL
+  </p>
+
+
+  
 ## 💻 Planned Project!
 
 
