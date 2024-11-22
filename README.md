@@ -140,14 +140,17 @@
 ---
 
 
-![Logo](https://github.com/inging5839/inging5839/blob/main/github-user-contribution.svg)
+<p align="center">
+  <a href="https://hits.seeyoufarm.com">
+    <img src="https://github.com/inging5839/inging5839/blob/main/github-user-contribution.svg"/>
+  </a>
+</p>
+
 
 
 <h3 align="center"><b>🔫 Hits </b></h3>
 <p align="center">
-  <a href="https://hits.seeyoufarm.com">
     <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Finging5839&count_bg=%238AA3FF&title_bg=%23555555&icon=&icon_color=%23B04B4B&title=Hits&edge_flat=false"/>
-  </a>
 </p>
 
 <div align="center"
