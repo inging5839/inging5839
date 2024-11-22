@@ -5,9 +5,10 @@
 
 <div align="left">
   <h2 align="center">😎 About Me!</h2>
-  <h4>I majored in biotechnology, but became interested in program development, so I transferred to Art&Tech. I am currently interested in app & web development, computer graphics, and AI.<br>
+  <h4 align="center">I majored in biotechnology, but became interested in program development.<br>
+    So I transferred to Art&Tech.<br> I am currently interested in app & web development, computer graphics, and AI.<br>
     <br>I think one expertise is important, but it is more important to achieve new creation by fusion with various skills. 
-    <br><br>I want to become a programmer who tries to create something that has not existed in the world by acquiring various skills across the field.<br>
+    <br><br>I want to become a programmer who tries to create something<br> that has not existed in the world by acquiring various skills across the field.<br>
   </h4>
   <h4>🎓 Studying at </h4>
   <ul> 
