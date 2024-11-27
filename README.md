@@ -116,7 +116,6 @@
     <p>I always welcome contributions to my repository!<br>
       If you have a project you’d like to work on together or<br> if you’d like to contribute to one of my projects, feel free to contact me anytime!</p>
   <p>
-    ☎ Phone: 010-5591-5839 <br>
     ✉️ E-Mail: inging5839@gmail.com
   </p>
     
